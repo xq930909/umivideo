@@ -1,0 +1,14 @@
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.list li {
+    width: 30%;
+    margin: 5px;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    background:#fff;
+}
